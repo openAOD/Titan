@@ -1,2 +1,2 @@
-# Catalyst
-A multi-threaded customizable atomic monorepo build tool.
+# Titan
+A multi-threaded customizable build tool.
